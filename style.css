@@ -14,9 +14,19 @@ body {
 }
 
 a {
-    padding: 10px 25px;
+    padding: 8px 25px;
     border: 1px solid brown;
     border-radius: 10px;
     color: brown;
     text-decoration: none;
+}
+
+.container {
+    width: 300px;
+    height: 350px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #91919175;
+    padding: 10px;
+    margin: 10px;
 }
